@@ -125,12 +125,16 @@ ___
 
 <!--GITHUB MARKDOWN-->
 
-* [X] Task 1
+*[X] Task 1
 
-* [X] Task 2
+*[X] Task 2
 
-* [ ] Task 3
+*[ ] Task 3
 
-* [ ] Task 4
+*[ ] Task 4
 
+<<<<<<< HEAD:Hello.md
 @FacundoAlba :+1:
+=======
+<@FacundoAlba :+1:
+>>>>>>> 389dcd5f81cb87108e12a89cdb2804bb2f5583e2:README.md
